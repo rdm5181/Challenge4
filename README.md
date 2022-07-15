@@ -45,3 +45,5 @@ Open Source
 ## Version
 
 First Version.  Runs in original directory, but needs further checkup.
+
+Second Version.  Discovered written file in wrong directory and finished program uploaded.
